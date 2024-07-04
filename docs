@@ -1,0 +1,4 @@
+# VERSIONS
+
+p#ip uninstall numpy
+#pip install 'numpy<2'
